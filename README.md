@@ -1,10 +1,11 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## Desafios de Algoritmos e Otimização
+
+<p style="font-size: 1.2em; color: #4CAF50;">Saudações 🖖🏾 🚀</p> 
+
+Este projeto teve como objetivo gerar relatórios de estoque apartir dos arquivos de dados fornecidos pelo setor responsavel, podendo ser em formato CSV, JSON ou XML.
+
+## Habilidades Desenvolvidas 👾
+<ul>
+    <li>Orientação a Objetos em Python;</li>
+    <li>Leitura e escrita de arquivos (XML, CSV, JSON)</li>
+</ul>
